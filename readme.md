@@ -12,7 +12,8 @@
 The readme should have a nice table
 
 id | time | answer
-1|10:11|no relevant
-2|11:27|not related to whiteboard
+--- | --- | ---
+1 | 10:11 | no relevant
+2 | 11:27 | not related to whiteboard
 
 Donec euismod ut est et dignissim. Nullam quam lacus, fringilla congue orci eu, maximus rutrum tellus. Quisque ac interdum augue, eget aliquam purus. Nullam condimentum in elit ut dapibus. Fusce malesuada blandit laoreet. Duis sit amet dolor faucibus, sodales enim eget, tincidunt ex. Suspendisse vitae arcu sodales, suscipit lorem viverra, egestas diam. Vivamus gravida magna quis nulla posuere, sed tincidunt odio tincidunt. Nulla imperdiet sodales nisi, id pharetra elit blandit ut. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse eu diam maximus erat laoreet egestas. Donec vel lacus hendrerit lectus ultricies pulvinar. D
